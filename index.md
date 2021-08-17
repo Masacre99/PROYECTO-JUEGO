@@ -24,6 +24,6 @@ https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.h
 [Link https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html](url https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html) https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html
 
 
-### Support or Contact
+### aqui les dejo el link donde explico el juego en youtube
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [documentation](https://youtu.be/l8HBhAV9yMk) or [video](https://youtu.be/l8HBhAV9yMk) 
