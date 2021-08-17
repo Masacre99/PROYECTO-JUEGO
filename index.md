@@ -8,18 +8,17 @@ CARACTERISTICAS
 Este proyecto tiene como fin entreteer al público de manera adulto como infantil ya que es un juego para cualquier edad y sexo.
 El juego consta fue desarrollado en GDevelop 5.
 
-# INTRODUCCIÓN
+#OBJETIVO
+El jusgo tiene como objetivo  recolectar figuras geometricas que caen  esquivando las bombas que caen para no perder vidas, se cuenta con 3 vidas para subir de nivel
+se necesita lograr el score de 100 para pasar de nivel.
 
-## Header 2
-### Header 3
+## PERSONAJES
+MONSTER (PERSONAJE PRINCIPAL)
+BOMBAS(QUITAN VIDA)
+FIGURAS GEOMETRICAS
+### AQUI PODRAN JUGAR EL VIDEO JUEGO CON ESTE LINK
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html
 
 [Link](url) and ![Image](src)
 ```
