@@ -21,7 +21,7 @@ FIGURAS GEOMETRICAS
 
 https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html
 
-[Link](url https://masacre99.github.io/PROYECTO-JUEGO/) https://masacre99.github.io/PROYECTO-JUEGO/ and ![Image](src)
+[Link https://masacre99.github.io/PROYECTO-JUEGO/](url https://masacre99.github.io/PROYECTO-JUEGO/) https://masacre99.github.io/PROYECTO-JUEGO/ 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
