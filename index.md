@@ -1,17 +1,15 @@
 ## PROYECTO VIDEOJUEGO
 
-You can use the [editor on GitHub](https://github.com/Masacre99/PROYECTO-JUEGO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PROYECTO VIDEOJUEGO
+HERNANDEZ CRUZ CRISTHIAN
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CARACTERISTICAS
 
-### Markdown
+Este proyecto tiene como fin entreteer al público de manera adulto como infantil ya que es un juego para cualquier edad y sexo.
+El juego consta fue desarrollado en GDevelop 5.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# INTRODUCCIÓN
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
 ## Header 2
 ### Header 3
 
