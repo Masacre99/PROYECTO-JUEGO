@@ -21,14 +21,8 @@ FIGURAS GEOMETRICAS
 
 https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html
 
-[Link https://masacre99.github.io/PROYECTO-JUEGO/](url https://masacre99.github.io/PROYECTO-JUEGO/) https://masacre99.github.io/PROYECTO-JUEGO/ 
-```
+[Link https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html](url https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html) https://games.gdevelop-app.com/game-82742fe1-183e-48ec-9f3e-fd35bea30e49/index.html
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Masacre99/PROYECTO-JUEGO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
